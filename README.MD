@@ -8,7 +8,7 @@
 3. Add `Add-PreferExternalManifest-to_reg.reg` to your Windows Registry. To do this, double click the file or follow [these instructions](http://www.tomsitpro.com/articles/windows-10-registry,2-1015.html).
 
 ## Before
-![Before](Before.PNG)
+![Before](https://i.imgur.com/1sEWyKl.png)
 
 ## After
-![After](After.PNG)
+![After](https://i.imgur.com/nnRGpQ8.png)
